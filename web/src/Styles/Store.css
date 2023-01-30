@@ -1,0 +1,19 @@
+.main__store{
+    width: 100%;
+    height: 100vh;
+}
+
+/*Lista de items*/
+.store__list{
+    width: 100%;
+    height: 100%;
+    list-style: none;
+    background-color: blue;
+}
+
+/*Item store*/
+.store__list-item{
+    width:200px;
+    height:200px;
+    background-color: red;
+}
